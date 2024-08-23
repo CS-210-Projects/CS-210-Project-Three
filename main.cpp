@@ -1,6 +1,5 @@
 #include "ItemTracker.h"
 #include <iostream>
-//Roger Fisher 8/18/2024
 
 int main() {
     //Initialize the itemTracker with the input file "produce.txt"
